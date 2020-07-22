@@ -1,0 +1,4 @@
+Garden_plant,Apple tree,150,30,1.1
+Indoor_plant,Rose flower,5,5,OFTEN
+Indoor_plant,Tree Crassula,10,9,MEDIUM
+Indoor_plant,cactus,19,10,RARELY
